@@ -26,7 +26,7 @@
     "jsx"
   ],
   "author": "Evan You",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/vuejs/babel-plugin-transform-vue-jsx/issues"
   },
